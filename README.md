@@ -1,6 +1,6 @@
-#Instrucciones
+# Instrucciones
 
-**Install python3-venv and python3-pip
+**Install python3-venv and python3-pip**
 
 sudo apt install python3-venv python3-pip
 
