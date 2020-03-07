@@ -28,8 +28,10 @@ pip install Flask
 
 export FLASK_APP=file.py/flaskr
 
-Debug Mode
+**Debug Mode**
+
 export FLASK_ENV=development
 
 flask run
+
 Running on http://127.0.0.1:5000/
